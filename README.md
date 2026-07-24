@@ -1,54 +1,24 @@
-# Hi there, I'm Rajib 👋
+# Hi there, I'm Rajib
 
-Cloud Architect | Platform Engineering Leader | AI & Cloud Solutions Builder
+# Engineer by passion. Maker by nature. Learner for life.
 
-I have 17+ years of experience designing, building, and modernizing enterprise-scale technology platforms across hyperscalars like Amazon Web Services, Azure. Throughout my career, I have partnered with large enterprises—including banking and financial services organizations—to, Telcos, Manufacturing, Pharmacological Research Orgs. I am proficient in designing scalable, resilient, secure, and cost-efficient cloud solutions that accelerate digital transformation.
-
-My expertise spans:
-
-☁️ Cloud Architecture (AWS, Azure)
-
-🏗️ Platform Engineering & Cloud Operating Models
-
-⚙️ Infrastructure as Code (Terraform)
-
-☸️ Kubernetes & Container Platforms (EKS)
-
-🤖 AI/ML & Generative AI Solutions
-
-🔐 Cloud Security & Governance
-
-📊 Enterprise Data & Analytics Platforms
-
-🚀 DevOps, SRE & Automation
-
+I'm endlessly curious about technology—not just for what it does, but for how it shapes the way we live, create, and solve problems. Whether I'm writing code, writing a travelogue, painting landscapes, or shaping wood, I enjoy creating things with my own hands—things that are thoughtfully crafted, practical, and built to last. I'm always trying to understand how things work beneath the surface, whether they're systems, ideas, or life itself!
 
 ## What You'll Find Here
 
-This GitHub serves as my cloud engineering and solution architecture portfolio, showcasing:
+These repositories are my engineering portfolio—a collection of projects, experiments, and reference architectures exploring:
 
-- AWS and Azure Reference Architectures
-- AI/ML & Generative AI Projects
-- Cloud-Native Platform Designs
-- Terraform & Infrastructure-as-Code Frameworks
-- Kubernetes & Containerization Solutions
-- Security & Governance Blueprints
-- Landing Zone Implementations
-- DevOps & Platform Engineering Accelerators
-- Architecture Decision Records (ADRs)
-- Production-Grade Design Documents
-
-## Current Focus Areas
-
-- Generative AI on AWS, Azure
-- Agentic AI Systems
-- Cloud-Native Platform Engineering
-- Kubernetes at Enterprise Scale
-- AI-Powered Security & Operations
-- Modern Data & Analytics Platforms
+🤖 AI/ML & Generative AI Solutions
+🔐 Cloud Security & Governance
+🏗️ Platform Engineering
+☁️ Cloud Reference Architectures (AWS, Azure)
 
 ## Philosophy
 
-I believe great architecture is not about choosing technologies—it's about creating platforms that enable teams to move faster, operate safely, and continuously innovate.
+I believe great engineering is not about choosing technologies—it's about creating platforms that enable teams to move faster, operate safely, and continuously innovate.
+
+If our interests overlap, I'd be glad to connect on LinkedIn: https://www.linkedin.com/in/rajib13
+
+If you are curious about who I am beyond the screen and keyboard? Explore my creative pursuits, travels, and more at https://www.neuralrhythms.in/.
 
 ---
