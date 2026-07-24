@@ -11,7 +11,7 @@ These repositories are my engineering portfolio—a collection of projects, expe
 🤖 AI/ML & Generative AI Solutions
 🔐 Cloud Security & Governance
 🏗️ Platform Engineering
-☁️ Cloud Reference Architectures (AWS, Azure)
+☁️ Cloud Reference Architectures
 
 ## Philosophy
 
